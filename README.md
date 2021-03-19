@@ -6,7 +6,7 @@ I studied Web design at [The Higher Education Technical School of Professional S
 
 I worked as a Front-end Developer at [Vega IT](https://www.vegait.rs/) company and had an internship at [Libra Fire](https://www.librafire.com/) agency.
 
-I am the best at converting Photoshop / Adobe XD static pages design to code using HTML, CSS, JavaScript. I would like to improve my JavaScript knowledge and try to React framework to create dynamic web applications.
+My speciality is converting Photoshop / Adobe XD static pages design to code using HTML, CSS, JavaScript. I would like to improve my JavaScript knowledge and my goal is to learn React framework to create dynamic web applications.
 
 Feel free to message me ✉️ at <strong>jovanamarcetafrontenddeveloper@gmail.com</strong>, I am always looking for new connections and opportunities.
 
