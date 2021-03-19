@@ -11,7 +11,7 @@ I am the best at converting Photoshop / Adobe XD static pages design to code usi
 Feel free to message me ✉️ at <strong>jovanamarcetafrontenddeveloper@gmail.com</strong>, I am always looking for new connections and opportunities.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jovanamarceta)
-[<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&color=ef6c00" />](https://jovana-marceta.github.io/app/index.html)
+[<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&color=blue" />](https://jovana-marceta.github.io/app/index.html)
 
 
 ![](https://komarev.com/ghpvc/?username=jovana-marceta&color=brightgreen)
