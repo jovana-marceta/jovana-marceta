@@ -1,6 +1,6 @@
 ### Hello World! 🌏
 
-My name is Jovana. I am a Front End Developer with 9 months of experience.
+My name is Jovana. I am a Front End Developer with 1 year of experience.
 
 I studied Web design at [The Higher Education Technical School of Professional Studies](http://vtsns.edu.rs/about-the-school/) in Novi Sad 🎓. Here I had an opportunity to learn the basics of Computer Science, programming, graphic and web design. I choose Front-end development because I am an analytical person and love coding 💻.
 
