@@ -9,7 +9,9 @@ I worked as a Front-end Developer at [Vega IT](https://www.vegait.rs/) company a
 My speciality is converting Photoshop / Adobe XD static pages design to live responsive websites using HTML, CSS, JavaScript and other frontend technologies.
 
 Some of technologies that I use:<br/>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 Feel free to message me ✉️ at <strong>jmarcetafedev@gmail.com</strong>, I am always looking for new connections and opportunities.
