@@ -2,7 +2,7 @@
 
 <center>My name is Jovana. I am Front End Developer.</center>
 
-![alt text](https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp "Logo Title Text 1")
+![alt text](https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp)
 
 I studied Web design at [The Higher Education Technical School of Professional Studies](http://vtsns.edu.rs/about-the-school/) in Novi Sad 🎓. Here I had an opportunity to learn the basics of Computer Science, programming, graphic and web design. I choose Front-end development because I am an analytical person and love coding 💻.
 
