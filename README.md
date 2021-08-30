@@ -22,7 +22,7 @@ My speciality is converting Photoshop / Adobe XD static pages design to live res
 Feel free to message me ✉️ at <strong>jmarcetafedev@gmail.com</strong>, I am always looking for new connections and opportunities.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jovanamarceta)
-[<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&color=green" />](https://jovana-marceta.github.io/app/index.html)
+[<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&color=red" />](https://jovana-marceta.github.io/app/index.html)
 
 
 ![](https://komarev.com/ghpvc/?username=jovana-marceta&color=brightgreen)
