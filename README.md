@@ -1,6 +1,6 @@
 ### Hello World! 🌏
 
-My name is Jovana. I am Front End Developer.
+My name is Jovana. I am Junior Frontend Developer. Skilled in developing responsive and maintainable websites. Dedicated, positive, and hardworking individual, who always strives to achieve the highest standard possible, at any given task.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jovanamarceta)
 [<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&color=red" />](https://jovana-marceta.github.io/app/index.html)
@@ -22,7 +22,6 @@ My speciality is converting Photoshop / Adobe XD static pages design to live res
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
 
 Feel free to message me ✉️ at <strong>jmarcetafedev@gmail.com</strong>, I am always looking for new connections and opportunities.
 
