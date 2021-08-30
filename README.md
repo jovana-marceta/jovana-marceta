@@ -2,6 +2,9 @@
 
 My name is Jovana. I am Front End Developer.
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jovanamarceta)
+[<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&color=red" />](https://jovana-marceta.github.io/app/index.html)
+
 ![alt text](https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp)
 
 I studied Web design at [The Higher Education Technical School of Professional Studies](http://vtsns.edu.rs/about-the-school/) in Novi Sad 🎓. Here I had an opportunity to learn the basics of Computer Science, programming, graphic and web design. I choose Front-end development because I am an analytical person and love coding 💻.
@@ -22,9 +25,5 @@ My speciality is converting Photoshop / Adobe XD static pages design to live res
 
 
 Feel free to message me ✉️ at <strong>jmarcetafedev@gmail.com</strong>, I am always looking for new connections and opportunities.
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jovanamarceta)
-[<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&color=red" />](https://jovana-marceta.github.io/app/index.html)
-
 
 ![](https://komarev.com/ghpvc/?username=jovana-marceta&color=brightgreen)
