@@ -1,6 +1,6 @@
 ### Hello World! 🌏
 
-My name is Jovana. I am a Front End Developer.
+My name is Jovana. I am Front End Developer.
 
 ![alt text](https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp "Logo Title Text 1")
 
