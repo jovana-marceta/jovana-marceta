@@ -5,7 +5,7 @@ My name is Jovana. I am Junior Frontend Developer. Skilled in developing respons
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jovanamarceta)
 [<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&color=red" />](https://jovana-marceta.github.io/app/index.html)
 
-[![Generic badge](https://raw.githubusercontent.com/jovana-marceta/resume/master/JovanaMar%C4%8DetaResume.pdf)](https://shields.io/)
+[[Generic badge](https://raw.githubusercontent.com/jovana-marceta/resume/master/JovanaMar%C4%8DetaResume.pdf)](https://shields.io/)
 
 
 [resume preview](https://raw.githubusercontent.com/jovana-marceta/resume/master/JovanaMar%C4%8DetaResume.pdf)
