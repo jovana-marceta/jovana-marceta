@@ -9,14 +9,7 @@ My name is Jovana. I am Junior Frontend Developer. Skilled in developing respons
 
 I studied Web design at [The Higher Education Technical School of Professional Studies](http://vtsns.edu.rs/about-the-school/) in Novi Sad 🎓. Here I had an opportunity to learn the basics of Computer Science, programming, graphic and web design. I choose Front-end development because I am an analytical person and love coding 💻.
 
-I have 11 months experience as Front-end Developer. 
-Some of my skilss:
 
-
-
-I worked as a Front-end Developer at [Vega IT](https://www.vegait.rs/) company and had an internships at [Libra Fire](https://www.librafire.com/) agency.
-
-My speciality is converting Photoshop / Adobe XD static pages design to live responsive websites using HTML, CSS, JavaScript and other frontend technologies.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
