@@ -1,6 +1,8 @@
 ### Hello World! 🌏
 
-My name is Jovana. I am Junior Frontend Developer. Skilled in developing responsive and maintainable websites. Dedicated, positive, and hardworking individual, who always strives to achieve the highest standard possible, at any given task.
+![Jovana Marceta Intro](https://i.imgur.com/p9Oo4A0.png)
+
+Junior Frontend Developer. Skilled in developing responsive and maintainable websites. Dedicated, positive, and hardworking individual, who always strives to achieve the highest standard possible, at any given task.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jovanamarceta)
 [<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&color=red" />](https://jovana-marceta.github.io/app/index.html)
