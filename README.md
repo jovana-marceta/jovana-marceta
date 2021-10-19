@@ -1,5 +1,3 @@
-### Hello World! 🌏
-
 ![Jovana Marceta Intro](https://i.imgur.com/p9Oo4A0.png)
 
 Junior Frontend Developer. Skilled in developing responsive and maintainable websites. Dedicated, positive, and hardworking individual, who always strives to achieve the highest standard possible, at any given task.
