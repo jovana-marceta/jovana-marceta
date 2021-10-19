@@ -9,6 +9,7 @@ My name is Jovana. I am Junior Frontend Developer. Skilled in developing respons
 
 I studied Web design at [The Higher Education Technical School of Professional Studies](http://vtsns.edu.rs/about-the-school/) in Novi Sad 🎓. Here I had an opportunity to learn the basics of Computer Science, programming, graphic and web design. I choose Front-end development because I am an analytical person and love coding 💻.
 
+Below is list of technologies that I used the most.
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
