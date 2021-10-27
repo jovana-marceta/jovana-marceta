@@ -5,6 +5,7 @@ Junior Frontend Developer. Skilled in developing responsive and maintainable web
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jovanamarceta)
 [<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&color=red" />](https://jovana-marceta.github.io/app/index.html)
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1da1f2" />](https://twitter.com/jmfedev)
+[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/channel/UCubr7ANoY-uA4htnhv0qsug)
 
 [resume preview](https://raw.githubusercontent.com/jovana-marceta/resume/master/JovanaMar%C4%8DetaResume.pdf)
 
