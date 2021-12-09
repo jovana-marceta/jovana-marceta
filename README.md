@@ -22,6 +22,7 @@ Junior Frontend Developer. Skilled in developing responsive and maintainable web
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
 Feel free to message me ✉️ at <strong>jmarcetafedev@gmail.com</strong>, I am always looking for new connections and opportunities.
