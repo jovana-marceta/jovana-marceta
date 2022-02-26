@@ -11,7 +11,7 @@
 
 - 💬 Feel free to contact me for anything
 - 🎯 Take a look at my portfolio site: [Portfolio](https://jovana-marceta.github.io/app/index.html)
--  My Resume preview: [CV](https://github.com/jovana-marceta/resume/blob/master/Jovana%20Mar%C4%8Deta%20CV.pdf)
+- 📚 My Resume preview: [CV](https://github.com/jovana-marceta/resume/blob/master/Jovana%20Mar%C4%8Deta%20CV.pdf)
 - 📫 Read my blog posts: [Dev.to blog posts](https://dev.to/jovanadev)
 - 🔔 Subscribe: [JMDev](https://www.youtube.com/channel/UCubr7ANoY-uA4htnhv0qsug)
 - ⚡ Fun fact: Internet users blink less than usual.
