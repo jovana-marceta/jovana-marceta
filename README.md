@@ -22,7 +22,7 @@ I wrote my first HTML and CSS piece of code during highschool. I will never forg
 
 Currently, I am working at [Adacta](https://www.adacta-fintech.com/), international software company. Adacta combines the latest technologies, innovative solutions and knowledge of business processes in order to help insurance companies improve their business. 
 
-Does all of this sounds interesting to You? Don't hesiate, contact me ✉️  at <strong>jmarcetafedev@gmail.com</strong>if You have questions an idea and want to bring it to life. Maybe you want to cooperate with me, or just randomly conversation? I am waiting for You.
+Does all of this sounds interesting to You? Don't hesiate, contact me ✉️  at <strong>jmarcetafedev@gmail.com</strong> if You have questions an idea and want to bring it to life. Maybe you want to cooperate with me, or just randomly conversation? I am waiting for You.
 
 ### My Services
 Bellow is list of my services. I am trying to stay up with the newest trends, and to keep learning and becoming better version of myself. When we improve our lives, we can improve others too. I am always willing to learn new things and cooperate with other enthusiastic individuals. Like Albert Einstain said,
