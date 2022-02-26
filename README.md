@@ -1,4 +1,4 @@
-![Jovana Marceta Intro](https://i.imgur.com/p9Oo4A0.png)
+![Jovana Marceta Intro](https://i.imgur.com/s2m20Hx.png)
 
 ## You want a perfect website? I will create it for You ✨.
 
