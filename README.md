@@ -23,6 +23,8 @@ I wrote my first HTML and CSS piece of code during high school. I will never for
 
 Currently, I am working at [Adacta](https://www.adacta-fintech.com/), an international software company. Adacta combines the latest technologies, innovative solutions and knowledge of business processes in order to help insurance companies improve their business. 
 
+> If you are you, breathe. If you breathe, you talk. If you talk, you ask. If you ask, you think. If you think, you search. If you search, you experience. If you experience, you learn. If you learn, you grow. If you grow, you wish. If you wish, you find. And if you find, you doubt. If you doubt, you question. If you question, you understand and if you understand, you know. If you know, you want to know more. If you want to know, more you are alive.
+> 
 Does all of this sound interesting to You? Don't hesitate, to contact me ✉️  at <strong>jmarcetafedev@gmail.com</strong> if You have questions an ideas and want to bring them to life. Maybe you want to cooperate with me, or just randomly conversation? I am waiting for You.
 
 ### My Services
