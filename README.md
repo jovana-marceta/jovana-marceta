@@ -23,14 +23,11 @@ I wrote my first HTML and CSS piece of code during high school. I will never for
 
 Currently, I am working at [Adacta](https://www.adacta-fintech.com/), an international software company. Adacta combines the latest technologies, innovative solutions and knowledge of business processes in order to help insurance companies improve their business. 
 
+Bellow is my favourite quote:
 > If you are you, breathe. If you breathe, you talk. If you talk, you ask. If you ask, you think. If you think, you search. If you search, you experience. If you experience, you learn. If you learn, you grow. If you grow, you wish. If you wish, you find. And if you find, you doubt. If you doubt, you question. If you question, you understand and if you understand, you know. If you know, you want to know more. If you want to know, more you are alive.
 > 
-Does all of this sound interesting to You? Don't hesitate, to contact me ✉️  at <strong>jmarcetafedev@gmail.com</strong> if You have questions an ideas and want to bring them to life. Maybe you want to cooperate with me, or just randomly conversation? I am waiting for You.
-
 ### My Services
-Below is a list of my services. I am trying to stay up with the newest trends in the industry and to keep learning and becoming a better version of myself. When we improve our lives, we can improve others too. I am always willing to learn new things and cooperate with other enthusiastic individuals. Like Albert Einstein said,
-
-> Once you stop learning, you start dying.
+Below is a list of my services. I am trying to stay up with the newest trends in the industry and to keep learning and becoming a better version of myself. When we improve our lives, we can improve others too. I am always willing to learn new things and cooperate with other enthusiastic individuals. 
 
 - Creating unique, modern and responsive websites for various web platforms
 - Optimizing pages for various devices and browsers
@@ -38,6 +35,9 @@ Below is a list of my services. I am trying to stay up with the newest trends in
 - Develop, test, maintain and improve software. Finding issues and fixing them with clean and meticulous code
 - Manage individual project priorities, deadlines, and deliverables
 - Help Your business grow with unique solutions
+
+
+Does all of this sound interesting to You? Don't hesitate, to contact me ✉️  at <strong>jmarcetafedev@gmail.com</strong> if You have questions an ideas and want to bring them to life. Maybe you want to cooperate with me, or just randomly conversation? I am waiting for You.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
