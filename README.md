@@ -25,7 +25,9 @@ Currently, I am working at [Adacta](https://www.adacta-fintech.com/), an interna
 
 Bellow is my favourite quote:
 > If you are you, breathe. If you breathe, you talk. If you talk, you ask. If you ask, you think. If you think, you search. If you search, you experience. If you experience, you learn. If you learn, you grow. If you grow, you wish. If you wish, you find. And if you find, you doubt. If you doubt, you question. If you question, you understand and if you understand, you know. If you know, you want to know more. If you want to know, more you are alive.
-> 
+
+![Freedom gif](https://media0.giphy.com/media/ugkrpzo6KJrdS/giphy.gif?cid=790b76114c42b346b46c9b95c65998c7f3791cdc9aa3aa3e&rid=giphy.gif&ct=g)
+
 ### My Services
 Below is a list of my services. I am trying to stay up with the newest trends in the industry and to keep learning and becoming a better version of myself. When we improve our lives, we can improve others too. I am always willing to learn new things and cooperate with other enthusiastic individuals. 
 
