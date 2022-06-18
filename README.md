@@ -59,7 +59,7 @@ Does all of this sound interesting to You? Don't hesitate, to contact me ✉️ 
 I like to share my knowledge with the community. I started writing blog posts. I am still a newbie. 
 - [TypeScript Basics](https://dev.to/jovanadev/typescript-basics-2io4)
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
+### Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
 
 ![](https://komarev.com/ghpvc/?username=jovana-marceta&color=brightgreen)
