@@ -1,4 +1,4 @@
-![Jovana Marceta Intro](https://i.imgur.com/s2m20Hx.png)
+[![Screenshot-2.png](https://i.postimg.cc/W1q5rDZJ/Screenshot-2.png)](https://postimg.cc/PChbn52t)
 
 ## You want a perfect website? I will create it for You ✨.
 
