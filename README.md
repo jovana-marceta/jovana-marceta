@@ -60,7 +60,7 @@ I like to share my knowledge with the community. I started writing blog posts. I
 - [TypeScript Basics](https://dev.to/jovanadev/typescript-basics-2io4)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ovana-marceta&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jovana-marceta&show_icons=true&count_private=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jovana-marceta)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jovana-marceta)  
 
