@@ -16,6 +16,9 @@
 - 🔔 Subscribe: [JMDev](https://www.youtube.com/channel/UCubr7ANoY-uA4htnhv0qsug)
 - ⚡ Fun fact: Internet users blink less than usual.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jovana-marceta&show_icons=true&count_private=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jovana-marceta)  
+
 ### Short story about me
 I am a passionate Web Developer💻, with focus on building unique, modern, maintainable and responsive websites for all of Your needs. My goals are to make an impact on the world and create a unique visual experience and help Your business to grow 🚀. I am a dedicated, positive, and hardworking individual, who always strives to achieve the highest standard possible, at any given task.
 
@@ -58,11 +61,6 @@ Does all of this sound interesting to You? Don't hesitate, to contact me ✉️ 
 ### My  Blog posts
 I like to share my knowledge with the community. I started writing blog posts. I am still a newbie. 
 - [TypeScript Basics](https://dev.to/jovanadev/typescript-basics-2io4)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jovana-marceta&show_icons=true&count_private=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jovana-marceta)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jovana-marceta)  
 
 ### Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
