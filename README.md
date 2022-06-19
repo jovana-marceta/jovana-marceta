@@ -19,8 +19,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jovana-marceta&show_icons=true&count_private=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jovana-marceta)  
 
-![GitHub metrics](https://metrics.lecoq.io/jovana-marceta)  
-
 ### Short story about me
 I am a passionate Web Developer💻, with focus on building unique, modern, maintainable and responsive websites for all of Your needs. My goals are to make an impact on the world and create a unique visual experience and help Your business to grow 🚀. I am a dedicated, positive, and hardworking individual, who always strives to achieve the highest standard possible, at any given task.
 
