@@ -16,7 +16,7 @@
 - 🔔 Subscribe: [JMDev](https://www.youtube.com/channel/UCubr7ANoY-uA4htnhv0qsug)
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jovana-marceta&show_icons=true&count_private=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jovana-marceta&show_icons=true&count_private=true)   -->
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jovana-marceta)  
 
 ### Short story about me
