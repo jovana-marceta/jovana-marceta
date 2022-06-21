@@ -5,7 +5,7 @@
 <img align='right' src='https://camo.githubusercontent.com/a67096f5f1acc0b3c32597dbf7bdb857e308dd0f51825de811ab41119fbec95f/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e77656270' width='280"'>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="width:100px;height:25px;"/>](https://www.linkedin.com/in/jovanamarceta)
-[<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&color=orange" style="width:100px;height:25px;" />](https://jovana-marceta.github.io/app/index.html)
+[<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&color=orange" style="width:100px;height:25px;" />](https://jmarcetadev.netlify.app/)
 [<img src="https://img.shields.io/badge/dribble-%230077B5.svg?&style=for-the-badge&color=pink" style="width:100px;height:25px;" />](https://dribbble.com/jmfedev)
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1da1f2" style="width:100px;height:25px;" />](https://twitter.com/jmfedev)
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" style="width:100px;height:25px;" />](https://www.youtube.com/channel/UCubr7ANoY-uA4htnhv0qsug)
