@@ -8,13 +8,11 @@
 [<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&color=red" style="width:100px;height:25px;" />](https://jmarcetadev.netlify.app/)
 [<img src="https://img.shields.io/badge/dribble-%230077B5.svg?&style=for-the-badge&color=pink" style="width:100px;height:25px;" />](https://dribbble.com/jmfedev)
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1da1f2" style="width:100px;height:25px;" />](https://twitter.com/jmfedev)
-[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" style="width:100px;height:25px;" />](https://www.youtube.com/channel/UCubr7ANoY-uA4htnhv0qsug)
 
 - 💬 Feel free to contact me for anything
 - 🎯 Take a look at my portfolio site: [Portfolio](https://jmarcetadev.netlify.app)
 - 📚 My Resume preview: [CV](https://github.com/jovana-marceta/resume/blob/master/Jovana%20Mar%C4%8Deta%20CV.pdf)
 - 📫 Read my blog posts: [Dev.to blog posts](https://dev.to/jovanadev)
-- 🔔 Subscribe: [JMDev](https://www.youtube.com/channel/UCubr7ANoY-uA4htnhv0qsug)
 - ⚡ Fun fact: Internet users blink less than usual.
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jovana-marceta&show_icons=true&count_private=true)   -->
