@@ -23,9 +23,9 @@ I am a passionate Web Developer💻, with focus on building unique, modern, main
 
 I wrote my first HTML and CSS piece of code during high school. I will never forget that fantastic feeling after building a simple page (and yeah, I too had felt like I hack NASA lmao 😄). The same year, I watched [Mr. Robot](https://www.imdb.com/title/tt4158110/) and [Silicon Valley](https://www.imdb.com/title/tt2575988/?ref_=nv_sr_srsg_0) that gave me a huge programming boost. I started learning and exploring the world of UI design and front-end development. I continue my journey at [Higher Education Technical School of Professional Studies](http://vtsns.edu.rs/). The rest is history.
 
-Currently, I am working at [Adacta](https://www.adacta-fintech.com/), an international software company. Adacta combines the latest technologies, innovative solutions and knowledge of business processes in order to help insurance companies improve their business. 
+I am working at [NovaLite](https://novalite.rs/), a software development company, an effective merger of Serbian and Dutch knowledge, experience and quality. We cultivate a sound business environment, blending the newest technologies and well-organized creative work.
 
-Bellow is my favourite quote:
+Below is my favourite quote:
 > If you are you, breathe. If you breathe, you talk. If you talk, you ask. If you ask, you think. If you think, you search. If you search, you experience. If you experience, you learn. If you learn, you grow. If you grow, you wish. If you wish, you find. And if you find, you doubt. If you doubt, you question. If you question, you understand and if you understand, you know. If you know, you want to know more. If you want to know, more you are alive.
 
 ![Freedom gif](https://media0.giphy.com/media/ugkrpzo6KJrdS/giphy.gif?cid=790b76114c42b346b46c9b95c65998c7f3791cdc9aa3aa3e&rid=giphy.gif&ct=g)
