@@ -1,7 +1,3 @@
-[![Screenshot-2.png](https://i.postimg.cc/W1q5rDZJ/Screenshot-2.png)](https://postimg.cc/PChbn52t)
-
-## You want a perfect website? I will create it for You ✨.
-
 <img align='right' src='https://camo.githubusercontent.com/a67096f5f1acc0b3c32597dbf7bdb857e308dd0f51825de811ab41119fbec95f/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e77656270' width='280"'>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="width:100px;height:25px;"/>](https://www.linkedin.com/in/jovanamarceta)
@@ -21,14 +17,7 @@
 ### Short story about me
 I am a passionate Web Developer💻, with focus on building unique, modern, maintainable and responsive websites for all of Your needs. My goals are to make an impact on the world and create a unique visual experience and help Your business to grow 🚀. I am a dedicated, positive, and hardworking individual, who always strives to achieve the highest standard possible, at any given task.
 
-I wrote my first HTML and CSS piece of code during high school. I will never forget that fantastic feeling after building a simple page (and yeah, I too had felt like I hack NASA lmao 😄). The same year, I watched [Mr. Robot](https://www.imdb.com/title/tt4158110/) and [Silicon Valley](https://www.imdb.com/title/tt2575988/?ref_=nv_sr_srsg_0) that gave me a huge programming boost. I started learning and exploring the world of UI design and front-end development. I continue my journey at [Higher Education Technical School of Professional Studies](http://vtsns.edu.rs/). The rest is history.
-
 I am working at [NovaLite](https://novalite.rs/), a software development company, an effective merger of Serbian and Dutch knowledge, experience and quality. We cultivate a sound business environment, blending the newest technologies and well-organized creative work.
-
-Below is my favourite quote:
-> If you are you, breathe. If you breathe, you talk. If you talk, you ask. If you ask, you think. If you think, you search. If you search, you experience. If you experience, you learn. If you learn, you grow. If you grow, you wish. If you wish, you find. And if you find, you doubt. If you doubt, you question. If you question, you understand and if you understand, you know. If you know, you want to know more. If you want to know, more you are alive.
-
-![Freedom gif](https://media0.giphy.com/media/ugkrpzo6KJrdS/giphy.gif?cid=790b76114c42b346b46c9b95c65998c7f3791cdc9aa3aa3e&rid=giphy.gif&ct=g)
 
 ### My Services
 Below is a list of my services. I am trying to stay up with the newest trends in the industry and to keep learning and becoming a better version of myself. When we improve our lives, we can improve others too. I am always willing to learn new things and cooperate with other enthusiastic individuals. 
@@ -39,7 +28,6 @@ Below is a list of my services. I am trying to stay up with the newest trends in
 - Develop, test, maintain and improve software. Finding issues and fixing them with clean and meticulous code
 - Manage individual project priorities, deadlines, and deliverables
 - Help Your business grow with unique solutions
-
 
 Does all of this sound interesting to You? Don't hesitate, to contact me ✉️  at <strong>jmarcetafedev@gmail.com</strong> if You have questions an ideas and want to bring them to life. Maybe you want to cooperate with me, or just randomly conversation? I am waiting for You.
 
