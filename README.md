@@ -5,7 +5,7 @@
 I build backend services and REST APIs with **.NET / C#** and **Node.js (NestJS)**, and the interfaces on top of them in **Angular** and **React**. I care about clean architecture, readable code, and features that work reliably end to end.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovanamarceta)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7650D8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jmarcetadev.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7650D8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jovanamarceta.com/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jovanadev)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/jmfedev)
 [![Email](https://img.shields.io/badge/Email-16A34A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmarcetadev@gmail.com)
