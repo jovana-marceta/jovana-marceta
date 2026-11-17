@@ -1,54 +1,59 @@
-<img align='right' src='https://camo.githubusercontent.com/a67096f5f1acc0b3c32597dbf7bdb857e308dd0f51825de811ab41119fbec95f/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e77656270' width='280"'>
+## Hi, I'm Jovana 👋
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="width:100px;height:25px;"/>](https://www.linkedin.com/in/jovanamarceta)
-[<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&color=red" style="width:100px;height:25px;" />](https://jmarcetadev.netlify.app/)
-[<img src="https://img.shields.io/badge/dribble-%230077B5.svg?&style=for-the-badge&color=pink" style="width:100px;height:25px;" />](https://dribbble.com/jmfedev)
-[<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1da1f2" style="width:100px;height:25px;" />](https://twitter.com/jmfedev)
+**Fullstack Software Engineer** from Novi Sad, Serbia, with 6+ years of experience building web applications for EdTech and enterprise products.
 
-- 💬 Feel free to contact me for anything
-- 🎯 Take a look at my portfolio site: [Portfolio](https://jmarcetadev.netlify.app)
-- 📚 My Resume preview: [CV](https://github.com/jovana-marceta/resume/blob/master/Jovana%20Mar%C4%8Deta%20CV.pdf)
-- 📫 Read my blog posts: [Dev.to blog posts](https://dev.to/jovanadev)
-- ⚡ Fun fact: Internet users blink less than usual.
+I build backend services and REST APIs with **.NET / C#** and **Node.js (NestJS)**, and the interfaces on top of them in **Angular** and **React**. I care about clean architecture, readable code, and features that work reliably end to end.
 
-### Short story about me
-I am a passionate Web Developer💻, with focus on building unique, modern, maintainable and responsive websites for all of Your needs. My goals are to make an impact on the world and create a unique visual experience and help Your business to grow 🚀. I am a dedicated, positive, and hardworking individual, who always strives to achieve the highest standard possible, at any given task.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovanamarceta)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7650D8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jmarcetadev.netlify.app/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jovanadev)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/jmfedev)
+[![Email](https://img.shields.io/badge/Email-16A34A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmarcetadev@gmail.com)
 
-I am working at [NovaLite](https://novalite.rs/), a software development company, an effective merger of Serbian and Dutch knowledge, experience and quality. We cultivate a sound business environment, blending the newest technologies and well-organized creative work.
+### What I'm doing now
 
-### My Services
-Below is a list of my services. I am trying to stay up with the newest trends in the industry and to keep learning and becoming a better version of myself. When we improve our lives, we can improve others too. I am always willing to learn new things and cooperate with other enthusiastic individuals. 
+- 💼 Software Developer at **Red Black Tree**, building backend services with NestJS, TypeORM and PostgreSQL, plus Angular on the frontend
+- 🧱 Before that, 2+ years at **NovaLite** on full-stack apps with ASP.NET Core, Entity Framework Core, MS SQL Server and Azure
+- 🌱 Currently learning more about system design and testing backend services
+- 🎤 Speaker at the Fullstack Development Conference and the Novi Sad Youth Forum, and a volunteer at WordPress community events
+- 📫 Open to new opportunities, so feel free to reach out
 
-- Creating unique, modern and responsive websites for various web platforms
-- Optimizing pages for various devices and browsers
-- Writing clean, consistent, and well-maintainable code
-- Develop, test, maintain and improve software. Finding issues and fixing them with clean and meticulous code
-- Manage individual project priorities, deadlines, and deliverables
-- Help Your business grow with unique solutions
+### Tech I work with
 
-Does all of this sound interesting to You? Don't hesitate, to contact me ✉️  at <strong>jmarcetafedev@gmail.com</strong> if You have questions an ideas and want to bring them to life. Maybe you want to cooperate with me, or just randomly conversation? I am waiting for You.
+**Backend**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-### My  Blog posts
-I like to share my knowledge with the community. I started writing blog posts. I am still a newbie. 
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+**Data, cloud and tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+### Writing
+
+I write about what I learn on my [blog](https://jmarcetadev.netlify.app/blog) and on [Dev.to](https://dev.to/jovanadev):
+
 - [TypeScript Basics](https://dev.to/jovanadev/typescript-basics-2io4)
 
-### Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
+---
 
-![](https://komarev.com/ghpvc/?username=jovana-marceta&color=brightgreen)
+Want to work together or just say hi? Book a call on [my portfolio](https://jmarcetadev.netlify.app/#book) or write to **jmarcetadev@gmail.com**.
 
-
+![Profile views](https://komarev.com/ghpvc/?username=jovana-marceta&color=7650d8)
